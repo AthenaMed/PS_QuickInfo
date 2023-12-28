@@ -9,11 +9,13 @@ share: "true"
 **[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/76466)**
 
 ## Docs
-[About](About.md)
-[FAQ](FAQ.md)
+[About](./About.md)
+[FAQ](./FAQ.md)
 [Installation](Installation.md)
-[Updating PS](Updating%20PS.md)
-[Keybinds](Keybinds.md)
+[Updating PS](./Updating%20PS.md)
+[Keybinds](./Keybinds.md)
+[Quickstart Play Guide](./Quickstart%20Play%20Guide.md)
+
 
 ## IN GAME SAVING PROCEDURE
 - Save before entering a loading screen/new cell. 
