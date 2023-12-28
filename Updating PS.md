@@ -9,9 +9,9 @@ If you did not clear previous download location, mods that did not change from l
 
 > [!important] Important!
 > 
-Keep in mind, that after update, all mods added by you, will be **DELETED**.
-If you want to keep those mods, add **[NoDelete]** at the beginning of mod name.
-![Pasted image 20231221123011.png](./Spaces/Home/Attachments/Pasted%20image%2020231221123011.png)
+> Keep in mind, that after update, all mods added by you, will be **DELETED**.
+> If you want to keep those mods, add **[NoDelete]** at the beginning of mod name.
+> ![Pasted image 20231221123011.png](./Spaces/Home/Attachments/Pasted%20image%2020231221123011.png)
 
 ## Running the Update
 1. Download our file from Nexus site [https://www.nexusmods.com/skyrimspecialedition/mods/76466?tab=files](https://www.nexusmods.com/skyrimspecialedition/mods/76466?tab=files "https://www.nexusmods.com/skyrimspecialedition/mods/76466?tab=files") and extract it.
