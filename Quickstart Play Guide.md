@@ -3,6 +3,18 @@ share: "true"
 ---
 
 [Keybinds](./Keybinds.md) [Controller Support Guide](./Controller%20Support%20Guide.md) [FAQ](./FAQ.md) 
+
+**Table of Contents**
+- [How to Start a New Game](Quickstart%20Play%20Guide.md#How%20to%20Start%20a%20New%20Game)
+- [Survival](Quickstart%20Play%20Guide.md#Survival)
+	- [Sunhelm](Quickstart%20Play%20Guide.md#Survival)
+	- [Campfire](Quickstart%20Play%20Guide.md#Survival)
+- [Combat](Quickstart%20Play%20Guide.md#Combat)
+	- [Valhalla Combat](Quickstart%20Play%20Guide.md#Combat)
+	- [Plus Combat](Quickstart%20Play%20Guide.md#Combat)
+- [About Death and Loading Saves](Quickstart%20Play%20Guide.md#About%20Death%20and%20Loading%20Saves)
+
+---
 ## How to Start a New Game
 
 Follow each step in [Project-Skyrim README](https://github.com/Charolas/PROJECT-SKYRIM/blob/main/README.md) for installation. After installing PS successfully, use MO2 (ModOrganizer.exe) in the Project Skyrim Folder to start the game. Click "Run" in the upper right corner.
@@ -29,16 +41,16 @@ Follow these instructions whenever you start a new play through:
 ## Survival
 PS (Project Skyrim) has a few survival based mods for immersion in the world.
 
-### [Sunhelm Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-SunHelm is a survival and needs mod that tries to stay as streamlined as possible, while still including a full set of features to work with. 
+### Sunhelm
+[SunHelm](<(https://www.nexusmods.com/skyrimspecialedition/mods/39414)>) is a survival and needs mod that tries to stay as streamlined as possible, while still including a full set of features to work with. 
 - Needs system's that include Hunger, Thirst, and Fatigue
 - A hypothermia system has been added in 2.0.0.
 - Seasons
 - Support for Campfire (see below)
 - Campfire Skilltree
 
-### [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)
-Campfire is the most feature-rich stand-alone camping mod for The Elder Scrolls V: Skyrim, created from Frostfall's immersive and detailed camping system.
+### Campfire
+[Campfire](<(https://www.nexusmods.com/skyrimspecialedition/mods/667)>) is the most feature-rich stand-alone camping mod for The Elder Scrolls V: Skyrim, created from Frostfall's immersive and detailed camping system.
 
 - **Build a campfire** 
 	- From a small, fragile spark to a roaring blaze, and use it to cook with a cooking pot (or just grill right over the flames), or sit with your followers around the fire. Large campfires uplift and inspire, granting bonuses to skill gain.  
@@ -56,11 +68,11 @@ Campfire is the most feature-rich stand-alone camping mod for The Elder Scrolls 
 ## Combat
 Regarding combat, PS (Project Skyrim) utilizes two core modules: Valhalla Combat and Plus Combat.
 
-### [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
-Primarily provides core mechanics such as Timed block, Stamina Edits, Stun & Execution, Projectile Block & Deflection.
+### Valhalla Combat
+[Valhalla Combat](<(https://www.nexusmods.com/skyrimspecialedition/mods/64741)>) Primarily provides core mechanics such as Timed block, Stamina Edits, Stun & Execution, Projectile Block & Deflection.
 
-### [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915)
-Fine-tunes and balances the mechanics of all prerequisite mods (such as Valhalla Combat and Chocolate Poise Plus). It refines the stamina system to make it more meaningful and form gameplay.
+### Plus Combat
+[Plus Combat](<(https://www.nexusmods.com/skyrimspecialedition/mods/100915)>) Fine-tunes and balances the mechanics of all prerequisite mods (such as Valhalla Combat and Chocolate Poise Plus). It refines the stamina system to make it more meaningful and form gameplay.
 
 This combination brings a deep and interactive system to (melee) combat.
 
