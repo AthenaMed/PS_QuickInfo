@@ -9,7 +9,7 @@ Follow each step in [Project-Skyrim README](https://github.com/Charolas/PROJECT-
 
 > [!important] First Time Run
 > 
-When you enter the game for the first time, be patient and wait for the window to pop up and load. The game requires loading a large number of resources, so this process takes some time. Once you're on the main screen, choose "New Game" to create your save.
+>When you enter the game for the first time, be patient and wait for the window to pop up and load. The game requires loading a large number of resources, so this process takes some time. Once you're on the main screen, choose "New Game" to create your save.
 
 Follow these instructions whenever you start a new play through: 
 
@@ -23,7 +23,7 @@ Follow these instructions whenever you start a new play through:
 
 > [!info] Optional
 > 
-Open MCM/mod Configuration again, scroll down to "Shadow of Skyrim" and click it. Then click on "general," and then on "enable." Confirm the pop-up to close and wait. This adds a gameplay element that helps preserve your save file on death. See [About Death and Loading Saves](Quickstart%20Play%20Guide.md#About%20Death%20and%20Loading%20Saves) for more.
+>Open MCM/mod Configuration again, scroll down to "Shadow of Skyrim" and click it. Then click on "general," and then on "enable." Confirm the pop-up to close and wait. This adds a gameplay element that helps preserve your save file on death. See [About Death and Loading Saves](Quickstart%20Play%20Guide.md#About%20Death%20and%20Loading%20Saves) for more.
 
 ---
 ## Survival
